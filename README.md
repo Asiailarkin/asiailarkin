@@ -1,12 +1,12 @@
 ### Hi, I'm Asia!
 
-👩🏾‍💻 Data Analyst sharing my projects<br />
-👩🏾‍🎓 Nashville Software School, [Data Analytics](https://nashvillesoftwareschool.com/programs/data-analytics-part-time), March 2024 Graduate <br />
-👩🏾‍🎓 Western Kentucky University, Pursuing MPH in Epidemiology, Expected Graduation December 2024<br />
-🌱 I’m currently learning dashboarding and computational biology<br />
+👩🏾‍💻 Data Analyst sharing my projects.<br />
+👩🏾‍🎓 Nashville Software School, [Data Analytics](https://nashvillesoftwareschool.com/programs/data-analytics-part-time), March 2024 Graduate.<br />
+👩🏾‍🎓 Western Kentucky University, Pursuing MPH in Epidemiology, Expected Graduation December 2024.<br />
+🌱 I’m currently learning dashboarding and computational biology.<br />
 
-
-
+<!-- Github Stats from [https://github.com/anuraghazra/](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) -->
+[![Asia's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiailarkin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Asiailarkin/asiailarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
