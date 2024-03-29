@@ -1,7 +1,8 @@
 ### Hi, I'm Asia!
 
 👩🏾‍💻 Data Analyst sharing my projects<br />
-👩🏾‍🎓 Nashville Software School Data Analytics Graduate, March 2024 & Pursuing MPH in Epidemiology, Expected Graduation December 2024, Western Kentucky University<br />
+👩🏾‍🎓 Nashville Software School Data Analytics Graduate, March 2024<br />
+👩🏾‍🎓 Pursuing MPH in Epidemiology, Expected Graduation December 2024, Western Kentucky University<br />
 🌱 I’m currently learning dashboarding and computational biology<br />
 
 
