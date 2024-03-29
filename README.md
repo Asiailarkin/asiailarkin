@@ -2,7 +2,7 @@
 
 👩🏾‍💻 Data Analyst sharing my projects.<br />
 👩🏾‍🎓 Nashville Software School, [Data Analytics](https://nashvillesoftwareschool.com/programs/data-analytics-part-time), March 2024 Graduate.<br />
-👩🏾‍🎓 Western Kentucky University, Pursuing MPH in Epidemiology, Expected Graduation December 2024.<br />
+👩🏾‍🎓 Western Kentucky University, MPH - Epidemiology specialization, Expected Graduation December 2024.<br />
 🌱 I’m currently learning dashboarding and computational biology.<br />
 
 ## 💻 Tech Stack
