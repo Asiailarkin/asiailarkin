@@ -2,8 +2,8 @@
 
 👩🏾‍💻 Data Analyst sharing my projects.<br />
 👩🏾‍🎓 Nashville Software School, [Data Analytics](https://nashvillesoftwareschool.com/programs/data-analytics-part-time), March 2024 Graduate.<br />
-👩🏾‍🎓 Western Kentucky University, MPH - Epidemiology specialization, Expected Graduation December 2024.<br />
-🌱 I’m currently learning dashboarding and computational biology.<br />
+👩🏾‍🎓 Applying for Computer Science graduate programs. <br />
+🤔 My interests include Data Science, AI, and machine learning. <br />
 
 ## 💻 Tech Stack
 <!-- Github Tags from [https://github.com/Ileriayo] (https://github.com/Ileriayo/markdown-badges) -->
